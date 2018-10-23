@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "kurczaki kfs som ok"
+echo "dwa kurczaki kfs som ok"
